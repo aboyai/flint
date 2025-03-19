@@ -3,7 +3,7 @@
 
 High-performance, **distributed DAG execution framework** built for **multi-machine agentic workflows**.
 
-Run complex workflows as **Directed Acyclic Graphs (DAGs)** across a cluster of machines with **gRPC-based task dispatching**, **real-time execution tracking**, and **scalable orchestration**.
+Run complex workflows as **Directed Acyclic Graphs (DAGs)** across a cluster of machines with **gRPC-based task dispatching**, and **scalable orchestration**.
 
 ---
 
@@ -12,7 +12,6 @@ Run complex workflows as **Directed Acyclic Graphs (DAGs)** across a cluster of 
 - 🧠 **Agentic Task Execution** – Define and execute intelligent tasks with dependencies.
 - ⚡ **Master-Worker Architecture** – Scale horizontally across multiple machines.
 - 🌐 **gRPC Communication** – Fast, reliable task dispatching and result collection.
-- 📊 **Real-time DAG Monitoring** – Visual dashboard with task status and logs.
 - 🧵 **Thread-safe Worker Pool** – Efficient task distribution and fault tolerance.
 - 🔥 **Bare-Metal & Cloud Ready** – Deploy on physical servers or cloud instances.
 
@@ -40,7 +39,6 @@ Run complex workflows as **Directed Acyclic Graphs (DAGs)** across a cluster of 
 
 1. Provision multiple machines (physical or virtual)
 2. Deploy and run `master` and `worker` binaries
-3. Define DAGs and monitor real-time execution via dashboard
 
 ---
 
