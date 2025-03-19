@@ -54,7 +54,7 @@ Run complex workflows as **Directed Acyclic Graphs (DAGs)** across a cluster of 
 
 ## 📄 Documentation
 
-Visit the [Flint Documentation](https://aboyai.com/flint/docs) for full setup details. Available soon!
+Visit the [Flint Documentation](https://aboyai.com/developers/flint) for full setup details. Available soon!
 
 ---
 
