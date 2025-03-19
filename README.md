@@ -1,7 +1,7 @@
 # Flint
 # ⚡ Distributed AgenticDAG
 
-High-performance, **distributed DAG execution framework** built in Go for **multi-machine agentic workflows**.
+High-performance, **distributed DAG execution framework** built for **multi-machine agentic workflows**.
 
 Run complex workflows as **Directed Acyclic Graphs (DAGs)** across a cluster of machines with **gRPC-based task dispatching**, **real-time execution tracking**, and **scalable orchestration**.
 
