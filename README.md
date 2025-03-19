@@ -22,8 +22,6 @@ Run complex workflows as **Directed Acyclic Graphs (DAGs)** across a cluster of 
 - **Language**: Go (Golang)
 - **Communication**: gRPC
 - **Deployment**: Bare-metal or cloud-based multi-machine clusters
-- **Visualization**: React Flow DAG UI *(optional frontend)*
-- **Storage (optional)**: MongoDB / Redis for task metrics and logs
 
 ---
 
