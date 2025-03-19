@@ -1,5 +1,5 @@
 # Flint
-# ⚡ Distributed AgenticDAG
+# ⚡ Distributed Agentic DAG
 
 High-performance, **distributed DAG execution framework** built for **multi-machine agentic workflows**.
 
@@ -37,6 +37,24 @@ Run complex workflows as **Directed Acyclic Graphs (DAGs)** across a cluster of 
 
 1. Provision multiple machines (physical or virtual)
 2. Deploy and run `master` and `worker` binaries
+
+---
+
+---
+
+## ✅ TODO Roadmap
+
+## ✅ TODO Roadmap
+
+## ✅ TODO Roadmap
+
+- [x] ~~Python task execution~~
+- [x] ~~Native task execution~~
+- [ ] Node.js task execution
+- [ ] Ollama support
+- [ ] CrewAI support
+- [ ] LangChain support
+- [ ] LlamaIndex support
 
 ---
 
