@@ -1,2 +1,57 @@
-# flint
-High-performance, distributed DAG execution framework for multi-machine workflows.
+# Flint
+# ⚡ Distributed AgenticDAG
+
+High-performance, **distributed DAG execution framework** built in Go for **multi-machine agentic workflows**.
+
+Run complex workflows as **Directed Acyclic Graphs (DAGs)** across a cluster of machines with **gRPC-based task dispatching**, **real-time execution tracking**, and **scalable orchestration**.
+
+---
+
+## 🚀 Features
+
+- 🧠 **Agentic Task Execution** – Define and execute intelligent tasks with dependencies.
+- ⚡ **Master-Worker Architecture** – Scale horizontally across multiple machines.
+- 🌐 **gRPC Communication** – Fast, reliable task dispatching and result collection.
+- 📊 **Real-time DAG Monitoring** – Visual dashboard with task status and logs.
+- 🧵 **Thread-safe Worker Pool** – Efficient task distribution and fault tolerance.
+- 🔥 **Bare-Metal & Cloud Ready** – Deploy on physical servers or cloud instances.
+
+---
+
+## 🔧 Tech Stack
+
+- **Language**: Go (Golang)
+- **Communication**: gRPC
+- **Deployment**: Bare-metal or cloud-based multi-machine clusters
+- **Visualization**: React Flow DAG UI *(optional frontend)*
+- **Storage (optional)**: MongoDB / Redis for task metrics and logs
+
+---
+
+## 📦 Use Cases
+
+- Distributed **AI Agent Execution** (e.g., LLM workflows)
+- Workflow Automation and CI/CD Pipelines
+- High-throughput **Data Processing Pipelines**
+
+---
+
+## 🚀 Getting Started
+
+1. Provision multiple machines (physical or virtual)
+2. Deploy and run `master` and `worker` binaries
+3. Define DAGs and monitor real-time execution via dashboard
+
+---
+
+## 📄 Documentation
+
+Visit the [Flint Documentation](https://aboyai.com/flint/docs) for full setup details.
+
+---
+
+## 📄 License
+
+This project is licensed under the [Apache-2.0 License](https://www.apache.org/licenses/LICENSE-2.0).
+
+---
