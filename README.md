@@ -1,7 +1,7 @@
-# Flint Engine
+# Flint 
 # ⚡ Distributed Agentic DAG
 
-High-performance, **distributed DAG execution framework** built for **multi-machine agentic workflows**.
+High-performance, **distributed DAG execution engine** built for **multi-machine agentic workflows**.
 
 Run complex workflows as **Directed Acyclic Graphs (DAGs)** across a cluster of machines with **gRPC-based task dispatching**, and **scalable orchestration**.
 
